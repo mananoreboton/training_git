@@ -9,3 +9,12 @@ add 2 line
 add line B1
 add line B2
 !extra o+b+d
+
+add 1 line
+add 2 line
+
+add 1 line
+add 2 line
+
+add line B1
+add line B2
